@@ -1,0 +1,16 @@
+public static void main(String[] args) {
+	descriptor:([Ljava/lang/Strong;]) V
+	flags:(0x0009) ACC_PUBLIC, ACC_STATIC
+	Code:
+	stack=2, loacls=4, args_size=1
+	0:iconst_1
+	1:istore_1
+	2:iconst_2
+	3:istore_2
+	4:iload_1
+	5:iload_2
+	6:iadd
+	7:istore_3
+	8:return
+	...
+}
