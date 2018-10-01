@@ -1,0 +1,84 @@
+// Decompiled by DJ v3.12.12.101 Copyright 2016 Atanas Neshkov  Date: 2018/8/25 21:10:49
+// Home Page:  http://www.neshkov.com/dj.html - Check often for new version!
+// Decompiler options: packimports(3) 
+// Source File Name:   AbstractCoverAttachmentScale.java
+
+package gregapi.cover.covers;
+
+import gregapi.cover.CoverData;
+import gregapi.cover.ITileEntityCoverable;
+import gregapi.data.CS;
+import gregapi.data.LH;
+import gregapi.util.UT;
+import java.util.List;
+import net.minecraft.entity.Entity;
+import net.minecraft.inventory.IInventory;
+import net.minecraft.item.ItemStack;
+
+// Referenced classes of package gregapi.cover.covers:
+//            AbstractCoverAttachment
+
+public abstract class AbstractCoverAttachmentScale extends AbstractCoverAttachment
+{
+
+    public AbstractCoverAttachmentScale()
+    {
+    }
+
+    public long onToolClick(byte aSide, CoverData aData, String aTool, long aRemainingDurability, long aQuality, 
+            Entity aPlayer, List aChatReturn, IInventory aPlayerInventory, boolean aSneaking, ItemStack aStack, byte aSideClicked, float aHitX, 
+            float aHitY, float aHitZ)
+    {
+        if(aTool.equals("cutter"))
+        {
+            aData.visual(aSide, (short)(aData.mVisuals[aSide] ^ CS.B[0]));
+            if(aChatReturn != null)
+                aChatReturn.add((aData.mVisuals[aSide] & CS.B[0]) == 0 ? "Emits weak Redstone" : "Emits strong Redstone");
+            aData.mTileEntity.sendBlockUpdateFromCover();
+            return 1000L;
+        }
+        if(aTool.equals("screwdriver"))
+        {
+            aData.visual(aSide, (short)(aData.mVisuals[aSide] ^ CS.B[1]));
+            if(aChatReturn != null)
+                aChatReturn.add((aData.mVisuals[aSide] & CS.B[1]) == 0 ? "Redstone scales up" : "Redstone scales down");
+            aData.mTileEntity.sendBlockUpdateFromCover();
+            return 1000L;
+        }
+        if(aTool.equals("magnifyingglass"))
+        {
+            if(aChatReturn != null)
+            {
+                aChatReturn.add((aData.mVisuals[aSide] & CS.B[0]) == 0 ? "Emits weak Redstone" : "Emits strong Redstone");
+                aChatReturn.add((aData.mVisuals[aSide] & CS.B[1]) == 0 ? "Redstone scales up" : "Redstone scales down");
+            }
+            return 1L;
+        } else
+        {
+            return 0L;
+        }
+    }
+
+    public byte getRedstoneOutStrong(byte aCoverSide, CoverData aData, byte aDefaultRedstone)
+    {
+        return (aData.mVisuals[aCoverSide] & CS.B[0]) == 0 ? 0 : getRedstoneOutWeak(aCoverSide, aData, aDefaultRedstone);
+    }
+
+    public byte getRedstoneOutWeak(byte aCoverSide, CoverData aData, byte aDefaultRedstone)
+    {
+        return (aData.mVisuals[aCoverSide] & CS.B[1]) == 0 ? gregapi.util.UT.Code.bind4(aData.mValues[aCoverSide]) : gregapi.util.UT.Code.bind4(15 - aData.mValues[aCoverSide]);
+    }
+
+    public boolean needsVisualsSaved(byte aSide, CoverData aData)
+    {
+        return true;
+    }
+
+    public void addToolTips(List aList, ItemStack aStack, boolean aF3_H)
+    {
+        super.addToolTips(aList, aStack, aF3_H);
+        aList.add((new StringBuilder()).append(gregapi.data.LH.Chat.DGRAY).append(LH.get("gt.lang.use.screwdriver.to.toggle")).toString());
+        aList.add((new StringBuilder()).append(gregapi.data.LH.Chat.DGRAY).append(LH.get("gt.lang.use.cutter.to.toggle")).toString());
+        aList.add((new StringBuilder()).append(gregapi.data.LH.Chat.DGRAY).append(LH.get("gt.lang.use.magnifyingglass.to.detail")).toString());
+    }
+}
