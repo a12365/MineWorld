@@ -1,0 +1,21 @@
+{
+  "sites": {
+    "site": [
+      {
+        "id": "1",
+        "name": "RUNOOB",
+        "url": "www.runoob.com"
+      },
+      {
+        "id": "2",
+        "name": "RUNOOB Tools",
+        "url": "c.runoob.com"
+      },
+      {
+        "id": "3",
+        "name": "Google",
+        "url": "www.google.com"
+      }
+    ]
+  }
+}

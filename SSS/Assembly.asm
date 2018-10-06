@@ -15,6 +15,3 @@ _start:                  ; 在屏幕上显示一个字符串
         mov eax, 1       ; 系统调用号(sys_exit) 
         int 0x80         ; 调用内核功能
 
----------------------
-
-本文来自 依白 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/sunshine__me/article/details/48810961?utm_source=copy 

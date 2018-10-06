@@ -1,0 +1,27 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="228.5" x="332.5" stroke-width="0" stroke="#000" fill="#000000">hoencpe</text>
+  <path id="svg_2" d="m206.857531,212.880634l16.479436,-23.436212l28.541126,-13.531897l32.958877,0l28.541126,13.531897l16.479432,23.436212l0,27.063797l-16.479432,23.436212l-28.541126,13.531893l-32.958877,0l-28.541126,-13.531893l-16.479436,-23.436212l0,-27.063797z" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path id="svg_3" d="m161.692374,118.040584l20.632792,-12.066168l35.73442,-6.966917l41.265589,0l35.73442,6.966917l20.632787,12.066168l0,13.933835l-20.632787,12.066168l-35.73442,6.966915l-41.265589,0l-35.73442,-6.966915l-20.632792,-12.066168l0,-13.933835z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <ellipse ry="43.5" rx="33.5" id="svg_4" cy="260" cx="113" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <rect id="svg_5" height="64" width="185" y="285.5" x="212.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path id="svg_6" d="m92.5,89.5c-3,35 -41,27 5,27c46,0 32,-88 40,-22c8,66 -2,25 66,13c68,-12 99,-168 26,-56" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <path d="m236.5,95.5c5,0 12.035828,-0.654701 18,0c9.16449,1.006004 31,18 18,76l-7,2l-37,-20" id="svg_7" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_8" points="317.5,109.5 325.5,109.5 346.5,176.5 " fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path d="m379.5,85.5c3,-1 6,-1 14,0l26,40l20,35l1,0" id="svg_9" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_10" y2="269.5" x2="284.5" y1="227.5" x1="401.5" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_11" y2="307.5" x2="240.5" y1="281.5" x1="441.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="264.5" x2="352.500004" y1="299.500001" x1="93.5" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse ry="43.5" rx="89.5" id="svg_13" cy="155" cx="407" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <ellipse ry="47" rx="20" id="svg_14" cy="292.5" cx="474.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#153723"/>
+ </g>
+</svg>

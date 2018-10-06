@@ -42,6 +42,3 @@ Java_com_example_hellojni_HelloJni_stringFromJNI(
 
 }
 
----------------------
-
-本文来自 天煞孤星心梦 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/a346492443/article/details/50738209?utm_source=copy 
