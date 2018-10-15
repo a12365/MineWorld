@@ -1,0 +1,6 @@
+public class Father
+	{
+}
+public class Child : Father
+	{
+}

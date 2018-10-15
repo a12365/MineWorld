@@ -1,0 +1,14 @@
+$background-color = lightblue
+add (a, b = a)
+    a = unit(a, px)
+    b = unit(b, px)
+    a + b
+
+.list-item
+.text-box
+    span
+        background-color: $background-color
+        margin: add(10)
+        padding: add(10, 5)
+    &:hover
+        background-color: powderblue
