@@ -1,0 +1,64 @@
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+<HEAD>
+<META name="Gemeratpr" content="FlashVml(闪耀之星)3.0">
+<META http-equiv="Content-Type" content="text/html;charset=gb2312">
+<META name="KeyWords" content="吾之画; flashvml; 闪耀之星; vml; VML; vmlflash; vml动画; 矢量; 2D; 3D; 沐缘华; FYW; 画板; 在线画图">
+<TITLE>吾之画</TITLE>
+<STYLE>
+v\:*{behavior:url(#default#VML);}
+o\:*{behavior:url(#default#VML);}
+</STYLE>
+<script>
+function window.onerror(){return true;}  //防止您的程序出现错误时弹出提示
+</script>
+</HEAD>
+<BODY bgcolor="#EEEEEE" style='scrollbar-base-color:purple;scrollbar-shadow-color:white;scrollbar-highlight-color:white;scrollbar-arrow-color:white;'>
+<bgsound loop=1 id=bgsound1>
+<bgsound loop=-1 id=bgsound2>
+<script>
+//启动更新函数,更新所有使用隐藏功能的物件初期视图
+var loadtime=null,loadtext='if(document.readyState!="complete"){window.status=window.status+"."}else{clearInterval(loadtime);window.status=""}';
+window.status='相关图形程序图像音乐正在加载，请等待'
+loadtime=setInterval(loadtext,200)
+function window.onload(){
+}
+</script>
+<v:shape id=vml2 style="Z-INDEX:3003;LEFT:319;WIDTH:100;POSITION:absolute;TOP:218;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,1,0,2,0,3,0,4,0,5,0,7,0,8,0,9,0,10,-1,11,-1,12,-1,13,-1,14,-1,15,-1,16,-1,17,-1,18,-1,19,-1,20,-1,21 -1,22,-1,23,-1,24,-1,25,-1,26,-1,27,-1,28,-1,29,-1,30,-1,31,-1,32,-1,33,-1,34,-1,35,0,36,0,37,1,38,2,38,3,39,3,40 5,41,7,42,8,43,10,43,12,44,13,44,14,44,15,44,17,44,18,44,19,44,20,44,21,44,22,44,23,44,24,44,25,44,26,44,27,44,28,44 29,44,30,44,31,44,32,44,33,44,34,44,35,44,36,44,37,43,37,42,37,41,38,40,38,39 e"/>
+<v:shape id=vml3 style="Z-INDEX:3004;LEFT:317;WIDTH:100;POSITION:absolute;TOP:221;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,-1,1,-2,2,-3,3,-3,4,-3,5,-4,5,-5,7,-5,8,-6,9,-6,10,-6,11,-6,12,-6,13,-6,14,-6,15,-6,16,-6,17,-6,18,-6,20,-6 21,-6,22,-6,24,-6,25,-5,27,-4,28,-4,29,-4,31,-3,32,-2,33,-2,34,-2,35,-2,36,-2,37,-1,38,0,39,1,40,2,40,3,41,4,41,5 42,6,43,7,43,8,44,9,44,10,44,12,44,13,44,14,44,15,44,16,44,17,44,18,43,19,43,20,43,21,42,22,41,23,41,24,40,26,40,27 39,28,39,29,39,30,39,31,38,32,38,33,38,34,38,35,38,36 e"/>
+<v:shape id=vml4 style="Z-INDEX:3005;LEFT:389;WIDTH:100;POSITION:absolute;TOP:199;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,1,-1,3,-2,5,-3,7,-5,9,-7,13,-8,15,-9,17,-11,19,-12,21,-13,23,-14,24,-15,26,-16,27,-17,28,-18,28,-19,29,-20,30,-21,31,-22,32 e"/>
+<v:shape id=vml5 style="Z-INDEX:3006;LEFT:386;WIDTH:100;POSITION:absolute;TOP:200;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,12,6,15,7,18,9,26,13,29,16,34,19,38,21,43,23,48,26,51,28,54,30,58,31,60,32,61,33,63,34,64,35,65,35,67,36,68,37 69,38,70,38 e"/>
+<v:shape id=vml6 style="Z-INDEX:3007;LEFT:386;WIDTH:100;POSITION:absolute;TOP:228;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,-1,0,0,0,1,0,3,0,7,0,11,0,17,0,23,0,29,-1,34,-1,40,-2,43,-3,45,-3,47,-4,46,-4,45,-3 e"/>
+<v:shape id=vml7 style="Z-INDEX:3008;LEFT:385;WIDTH:100;POSITION:absolute;TOP:236;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,1,0,2,1,4,2,6,3,9,4,10,5,12,5,13,6,16,6,17,6,18,7,19 e"/>
+<v:shape id=vml8 style="Z-INDEX:3009;LEFT:391;WIDTH:100;POSITION:absolute;TOP:240;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,3,0,6,0,9,0,14,0,17,-1,26,-1,31,-2,34,-2,35,-3,36,-3,35,-2,34,0,33,1,31,3,29,6,27,8,25,10,23,12,22,14 20,15,20,16,19,16 e"/>
+<v:shape id=vml9 style="Z-INDEX:3010;LEFT:395;WIDTH:100;POSITION:absolute;TOP:257;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,1,0,5,0,8,0,11,0,14,0,17,0,20,0,23,0,24,0,25,0,26,0 e"/>
+<v:shape id=vml10 style="Z-INDEX:3011;LEFT:465;WIDTH:100;POSITION:absolute;TOP:216;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,5,4,6,6,7,8,8,10,9,12,10,15,10,17,11,20,12,22,13,24,13,26,15,30,16,31,16,32 e"/>
+<v:shape id=vml11 style="Z-INDEX:3012;LEFT:476;WIDTH:100;POSITION:absolute;TOP:221;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,1,-1,3,-1,6,-1,9,-2,12,-3,16,-3,21,-4,23,-5,26,-5,28,-6,29,-6,30,-6,31,-5,31,-4,31,-3,32,-1,32,0,32,2,32,4 32,7,32,9,32,11,32,13,32,15,32,16,31,18,31,19,30,20,30,22,29,23,28,24,28,25,28,26,27,27,27,28 e"/>
+<v:shape id=vml12 style="Z-INDEX:3013;LEFT:484;WIDTH:100;POSITION:absolute;TOP:249;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,2,0,4,0,6,0,9,0,11,-1,14,-1,15,-1,17,-1,18,-1,19,-1,20,-1,21,-1 e"/>
+<v:shape id=vml13 style="Z-INDEX:3014;LEFT:545;WIDTH:100;POSITION:absolute;TOP:197;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,1,-3,6,-6,9,-9,14,-17,22,-22,26,-27,30,-31,34,-33,36,-35,37,-37,39,-37,38 e"/>
+<v:shape id=vml14 style="Z-INDEX:3015;LEFT:547;WIDTH:100;POSITION:absolute;TOP:202;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,22,8,24,9,26,10,28,12,31,13,34,15,37,17,39,19,43,21,45,23,47,24,49,25,51,26,50,26 e"/>
+<v:shape id=vml15 style="Z-INDEX:3016;LEFT:524;WIDTH:100;POSITION:absolute;TOP:226;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,27,-1,33,-1,38,-2,46,-2,48,-3 e"/>
+<v:shape id=vml16 style="Z-INDEX:3017;LEFT:531;WIDTH:100;POSITION:absolute;TOP:241;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,1,4,2,5,3,7,3,8 e"/>
+<v:shape id=vml17 style="Z-INDEX:3018;LEFT:533;WIDTH:100;POSITION:absolute;TOP:239;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,21,-2,26,-2,29,-2,32,-2,36,-2,37,-2,38,-2,39,-1,39,0,39,1,39,3,38,6,38,7,37,9,36,11,35,13,35,16,34,17,33,18 33,19,33,20,32,20,31,20 e"/>
+<v:shape id=vml18 style="Z-INDEX:3019;LEFT:534;WIDTH:100;POSITION:absolute;TOP:256;HEIGHT:100" coordsize="100,100" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px" path=" m0,0 l0,0,2,0,5,0,9,0,14,0,23,0,27,0,31,0,34,-1,37,-1 e"/>
+<v:curve id=vml20 style="Z-INDEX:3021;LEFT:307;POSITION:absolute;TOP:295" from="0,0" control1="53.25pt,18pt" control2="147.75pt,-27pt" to="218.25pt,-.75pt" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:curve>
+<v:line id=vml21 style="Z-INDEX:3025;LEFT:643;POSITION:absolute;TOP:205" from="0,0" to="-16.5pt,56.25pt" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:line>
+<v:line id=vml22 style="Z-INDEX:3026;LEFT:659;POSITION:absolute;TOP:210" from="0,0" to="-24.75pt,54.75pt" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:line>
+<v:curve id=vml24 style="Z-INDEX:3028;LEFT:643;POSITION:absolute;TOP:205" from="0,0" control1="11.25pt,-6pt" control2="10.5pt,-3.75pt" to="11.25pt,3.75pt" filled="f" fillcolor="white" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:curve>
+<v:line id=vml25 style="Z-INDEX:3032;LEFT:621;POSITION:absolute;TOP:279" from="0,0" to="3.75pt,3pt" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:line>
+<v:oval id=vml26 style="Z-INDEX:3033;LEFT:609;WIDTH:16;POSITION:absolute;TOP:285;HEIGHT:15" fillcolor="white" strokecolor="black" strokeweight="1px">
+<v:shadow on="t" color="black" opacity="52428f" offset="1.5pt,1.5pt"/>
+</v:oval><SCRIPT>  //以下程序快速执行使预隐藏图形及时隐藏
+try{var bodyobjs=document.body.children;for(i=0;i<bodyobjs.length;i++){if(bodyobjs[i].yincang!=null)bodyobjs[i].style.display='none';}}catch(e){}
+</SCRIPT>
+</BODY>
+</HTML>
